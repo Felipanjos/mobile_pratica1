@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Login Screen</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="button_entrar">Enter</string>
+    <string name="button_cancelar">Cancel</string>
+    <string name="new_username_label">New Username</string>
+    <string name="new_password_label">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="confirm_change">Confirm</string>
+    <string name="menu_title">Main Screen</string>
+    <string name="button_configurar">Settings</string>
+    <string name="button_sair">Exit</string>
+    <string name="config_title">Settings Screen</string>
+    <string name="button_confirmar">Confirm</string>
+    <string name="button_voltar">Quit</string>
+    <string name="msg_login">Successful login</string>
+    <string name="msg_falha2">chances left</string>
+    <string name="msg_falha">Invalid username or password,</string>
+    <string name="msg_over">Chances depleted, application will be blocked.</string>
+    <string name="msg_senha_diferente">Passwords don\'t match, type again.</string>
+    <string name="msg_dados_alterados">Username and password changed.</string>
+</resources>

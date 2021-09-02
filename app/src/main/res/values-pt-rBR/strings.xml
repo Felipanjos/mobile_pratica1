@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tela de Login</string>
+    <string name="username_label">Nome do usuário</string>
+    <string name="password_label">Senha</string>
+    <string name="button_entrar">Entrar</string>
+    <string name="button_cancelar">Cancelar</string>
+    <string name="confirm_change">Confirmar</string>
+    <string name="confirm_password">Confirmar Senha</string>
+    <string name="new_password_label">Nova Senha</string>
+    <string name="new_username_label">Novo Usuário</string>
+    <string name="menu_title">Tela Principal</string>
+    <string name="button_configurar">Configurações</string>
+    <string name="button_sair">Sair</string>
+    <string name="config_title">Tela de Configurações</string>
+    <string name="button_confirmar">Confirmar</string>
+    <string name="button_voltar">Voltar</string>
+    <string name="msg_login">Login efetuado com sucesso</string>
+    <string name="msg_falha2">chances restantes</string>
+    <string name="msg_falha">"Usuário ou senha inválido, "</string>
+    <string name="msg_over">Chances esgotadas, a aplicação será bloqueada.</string>
+    <string name="msg_senha_diferente">Senhas diferentes, digite novamente.</string>
+    <string name="msg_dados_alterados">Usuário e senha alterados.</string>
+</resources>
