@@ -17,7 +17,7 @@
     <string name="button_voltar">Voltar</string>
     <string name="msg_login">Login efetuado com sucesso</string>
     <string name="msg_falha2">chances restantes</string>
-    <string name="msg_falha">"Usuário ou senha inválido, "</string>
+    <string name="msg_falha">"Usuário/senha inválidos "</string>
     <string name="msg_over">Chances esgotadas, a aplicação será bloqueada.</string>
     <string name="msg_senha_diferente">Senhas diferentes, digite novamente.</string>
     <string name="msg_dados_alterados">Usuário e senha alterados.</string>

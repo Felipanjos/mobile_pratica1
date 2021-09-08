@@ -24,7 +24,7 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View view) {
         switch (view.getId()) {
             case R.id.button_configurar:
-                Intent view_configurar = new Intent(this, MenuActivity.class);
+                Intent view_configurar = new Intent(this, ConfigActivity.class);
                 startActivity(view_configurar);
                 break;
             case R.id.button_sair:

@@ -16,7 +16,7 @@
     <string name="button_voltar">Quit</string>
     <string name="msg_login">Successful login</string>
     <string name="msg_falha2">chances left</string>
-    <string name="msg_falha">Invalid username or password,</string>
+    <string name="msg_falha">username/password invalid</string>
     <string name="msg_over">Chances depleted, application will be blocked.</string>
     <string name="msg_senha_diferente">Passwords don\'t match, type again.</string>
     <string name="msg_dados_alterados">Username and password changed.</string>
